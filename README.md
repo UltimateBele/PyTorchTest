@@ -1,7 +1,7 @@
-**About
+**About**
 This is a project where I learn and try out PyTorch.
 
-**Setup
+**Setup**
 
 Run this command in the /PyTorchTest:
 
